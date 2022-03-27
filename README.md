@@ -3,5 +3,5 @@
 Cheatsheets for the MITx Data Science and Statistics Capstone Exams.
 
 - [x] Probability
-- [ ] Statistics
-- [ ] Machine Learning
+- [x] Statistics
+- [x] Machine Learning
