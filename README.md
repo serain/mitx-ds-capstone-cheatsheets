@@ -2,6 +2,4 @@
 
 Cheatsheets for the MITx Data Science and Statistics Capstone Exams.
 
-- [x] Probability
-- [x] Statistics
-- [x] Machine Learning
+`.drawio` files can be opened in [diagrams.net](https://app.diagrams.net/) (previously draw.io)
